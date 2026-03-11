@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4c068f3d532bb210952b17c0a0490ed1" label="Question" max_length="40" name="x_1488662_galinha_question" type="collection">
+        <element label="Cod Form" max_length="32" name="cod_form" reference="x_1488662_galinha_form" type="reference"/>
+        <element display="true" label="Texto Pergunta" max_length="150" name="texto_pergunta" type="string"/>
+        <index name="index">
+            <element name="cod_form"/>
+        </index>
+    </element>
+</database>

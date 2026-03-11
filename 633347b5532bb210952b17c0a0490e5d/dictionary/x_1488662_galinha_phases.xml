@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9f5583f9532bb210952b17c0a0490e48" label="Phases" max_length="40" name="x_1488662_galinha_phases" type="collection">
+        <element display="true" label="Description" max_length="40" name="description" type="string"/>
+        <element label="Phase" max_length="40" name="phase" type="string"/>
+    </element>
+</database>

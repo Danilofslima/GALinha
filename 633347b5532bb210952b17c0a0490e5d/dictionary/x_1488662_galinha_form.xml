@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="49570331536bb210952b17c0a0490edb" label="Form" max_length="40" name="x_1488662_galinha_form" type="collection">
+        <element display="true" label="Cod Ciclo" max_length="40" name="cod_ciclo" type="string"/>
+        <element choice="3" label="month" max_length="40" name="month" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Jan" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="feb" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="mar" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element choice="3" label="Year" max_length="40" name="year" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="2026" sequence="1" value="2026"/>
+                <element inactive_on_update="false" label="2025" sequence="0" value="2025"/>
+            </choice>
+        </element>
+    </element>
+</database>

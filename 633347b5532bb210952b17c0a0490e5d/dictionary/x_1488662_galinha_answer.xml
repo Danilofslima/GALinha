@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="33184f71536bb210952b17c0a0490eaa" extends="task" label="Answer" max_length="40" name="x_1488662_galinha_answer" type="collection">
+        <element label="Cod Pergunta" max_length="32" name="cod_pergunta" reference="x_1488662_galinha_question" type="reference"/>
+        <element choice="3" label="Likert" max_length="40" name="likert" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="2- Médio" sequence="1" value="m_dio"/>
+                <element inactive_on_update="false" label="1 - Baixo" sequence="0" value="baixo"/>
+                <element inactive_on_update="false" label="3 - Alto" sequence="2" value="alto"/>
+            </choice>
+        </element>
+    </element>
+</database>

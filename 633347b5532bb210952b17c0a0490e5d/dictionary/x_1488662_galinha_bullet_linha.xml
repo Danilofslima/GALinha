@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b5734fb5532bb210952b17c0a0490e35" label="Bullet Linha" max_length="40" name="x_1488662_galinha_bullet_linha" type="collection">
+        <element choice="3" label="Concluído" max_length="40" name="concluido" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element label="Peso" max_length="38" name="peso" type="decimal"/>
+        <element display="true" label="Descripyion" max_length="150" name="descripyion" type="string"/>
+        <element label="Cod Linha" max_length="32" name="cod_linha" reference="x_1488662_galinha_linha" type="reference"/>
+        <index name="index">
+            <element name="cod_linha"/>
+        </index>
+    </element>
+</database>

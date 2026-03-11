@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5ed64fbd532bb210952b17c0a0490e35" label="M2M Bullet Question" max_length="40" name="x_1488662_galinha_m2m_bullet_question" type="collection">
+        <element label="Cod Bullet Linha" max_length="32" name="cod_bullet_linha" reference="x_1488662_galinha_bullet_linha" type="reference"/>
+        <element label="Cod Pergunta" max_length="32" name="cod_pergunta" reference="x_1488662_galinha_question" type="reference"/>
+        <index name="index">
+            <element name="cod_bullet_linha"/>
+        </index>
+        <index name="index2">
+            <element name="cod_pergunta"/>
+        </index>
+    </element>
+</database>
