@@ -5,7 +5,7 @@
         <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Cod Form</column_label>
@@ -33,7 +33,7 @@
         <name>x_1488662_galinha_question</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>false</read_only>
+        <read_only>true</read_only>
         <read_roles/>
         <reference display_value="" name="x_1488662_galinha_form">x_1488662_galinha_form</reference>
         <reference_cascade_rule/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
         <sys_update_name>sys_dictionary_x_1488662_galinha_question_cod_form</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-11 17:43:48</sys_updated_on>
+        <sys_updated_on>2026-03-12 01:54:25</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

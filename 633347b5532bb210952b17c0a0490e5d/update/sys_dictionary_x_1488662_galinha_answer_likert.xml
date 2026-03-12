@@ -8,7 +8,7 @@
         <choice>3</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Likert</column_label>
+        <column_label>Resposta</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -47,13 +47,13 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-11 17:56:46</sys_created_on>
-        <sys_name>Likert</sys_name>
+        <sys_name>Resposta</sys_name>
         <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
         <sys_policy/>
         <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
         <sys_update_name>sys_dictionary_x_1488662_galinha_answer_likert</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-11 17:56:46</sys_updated_on>
+        <sys_updated_on>2026-03-12 01:25:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

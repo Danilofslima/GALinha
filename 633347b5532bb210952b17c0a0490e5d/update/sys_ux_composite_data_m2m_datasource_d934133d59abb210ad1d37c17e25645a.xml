@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">d534133d86abb2107cc68f38589d9c5d</dataset>
+        <datasource display_value="Custom Portal Catalog Item page - Related Items Datasource">d534133d1babb21075d986dd05b8b85b</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-11 18:37:30</sys_created_on>
+        <sys_id>d934133d59abb210ad1d37c17e25645a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_d934133d59abb210ad1d37c17e25645a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-11 18:37:30</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

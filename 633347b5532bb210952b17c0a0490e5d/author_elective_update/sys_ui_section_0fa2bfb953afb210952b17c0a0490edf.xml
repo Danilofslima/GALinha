@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="0fa2bfb953afb210952b17c0a0490edf" sys_domain="global" table="x_1488662_galinha_question" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.x_1488662_galinha_question.x_1488662_galinha_m2m_bullet_question.cod_pergunta</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-11 20:50:52</sys_created_on>
+            <sys_id>d4c2b3f953afb210952b17c0a0490e18</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1488662_galinha_question" sys_domain="global" view="Default view">0fa2bfb953afb210952b17c0a0490edf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-11 20:50:52</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-11 20:50:52</sys_created_on>
+            <sys_id>54c2b3f953afb210952b17c0a0490e19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1488662_galinha_question" sys_domain="global" view="Default view">0fa2bfb953afb210952b17c0a0490edf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-11 20:50:52</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1488662_galinha_question</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-11 20:50:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0fa2bfb953afb210952b17c0a0490edf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1488662_galinha_question</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
+            <sys_update_name>sys_ui_section_0fa2bfb953afb210952b17c0a0490edf</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-11 20:50:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GALinha">633347b5532bb210952b17c0a0490e5d</application>
+        <file_path/>
+        <instance_id>50499024eb44529c5a2dfceacad0cd51</instance_id>
+        <instance_name>dev287143</instance_name>
+        <name>sys_ui_section_0fa2bfb953afb210952b17c0a0490edf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="0fa2bfb953afb210952b17c0a0490edf" sys_domain="global" table="x_1488662_galinha_question" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>12M.x_1488662_galinha_question.x_1488662_galinha_m2m_bullet_question.cod_pergunta</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-11 20:50:52</sys_created_on><sys_id>d4c2b3f953afb210952b17c0a0490e18</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1488662_galinha_question" sys_domain="global" view="Default view">0fa2bfb953afb210952b17c0a0490edf</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-11 20:50:52</sys_updated_on><sys_user/><type>list</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-11 20:50:52</sys_created_on><sys_id>54c2b3f953afb210952b17c0a0490e19</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1488662_galinha_question" sys_domain="global" view="Default view">0fa2bfb953afb210952b17c0a0490edf</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-11 20:50:52</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_1488662_galinha_question</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-11 20:50:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0fa2bfb953afb210952b17c0a0490edf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1488662_galinha_question</sys_name><sys_overrides/><sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package><sys_policy/><sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope><sys_update_name>sys_ui_section_0fa2bfb953afb210952b17c0a0490edf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-11 20:50:31</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>862556689</payload_hash>
+        <record_name>Question</record_name>
+        <reverted_from/>
+        <source>5e13137953abb210952b17c0a0490eb0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-11 20:50:53</sys_created_on>
+        <sys_id>50c2b3f953afb210952b17c0a0490e1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19cdeaaac260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-11 20:50:53</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>50c2b3f929afb21009456a329611b21c</update_guid>
+        <update_guid_history>50c2b3f929afb21009456a329611b21c:862556689,83a2ffb9e1afb210950141ecd4029e6a:-238017183</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-11 20:51:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>77b7a82176cc4568bebf2fd347a36631</sys_id>
+        <sys_metadata>0fa2bfb953afb210952b17c0a0490edf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
+        <sys_parent display_value="Galinha Question">4c068f3d532bb210952b17c0a0490ed1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
+        <sys_scope_delete display_value="">25ff8abd97f64b2899e50250c494e839</sys_scope_delete>
+        <sys_update_name>sys_ui_section_0fa2bfb953afb210952b17c0a0490edf</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_0fa2bfb953afb210952b17c0a0490edf">50c2b3f953afb210952b17c0a0490e1d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-11 20:51:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

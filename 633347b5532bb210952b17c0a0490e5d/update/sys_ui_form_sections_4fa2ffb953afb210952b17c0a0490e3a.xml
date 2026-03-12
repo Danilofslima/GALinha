@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="4fa2ffb953afb210952b17c0a0490e3a" sys_domain="global" table="x_1488662_galinha_question" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-11 20:50:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3a2ffb953afb210952b17c0a0490e41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1488662_galinha_question" name="x_1488662_galinha_question" sys_domain="global" view="Default view">4fa2ffb953afb210952b17c0a0490e3a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1488662_galinha_question" sys_domain="global" view="Default view">5806cf3d532bb210952b17c0a0490e23</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-11 20:50:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-11 20:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0433333d53afb210952b17c0a0490ef1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1488662_galinha_question" name="x_1488662_galinha_question" sys_domain="global" view="Default view">4fa2ffb953afb210952b17c0a0490e3a</sys_ui_form>
+            <sys_ui_section caption="M2M List" display_value="M2M List" name="x_1488662_galinha_question" sys_domain="global" view="Default view">8033333d53afb210952b17c0a0490eec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-11 20:52:46</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-11 20:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8033733d53afb210952b17c0a0490e05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1488662_galinha_question" name="x_1488662_galinha_question" sys_domain="global" view="Default view">4fa2ffb953afb210952b17c0a0490e3a</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_1488662_galinha_question" sys_domain="global" view="Default view">4c33333d53afb210952b17c0a0490eed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-11 20:52:46</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1488662_galinha_question</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-11 20:50:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4fa2ffb953afb210952b17c0a0490e3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1488662_galinha_question</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4fa2ffb953afb210952b17c0a0490e3a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-11 20:50:31</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
