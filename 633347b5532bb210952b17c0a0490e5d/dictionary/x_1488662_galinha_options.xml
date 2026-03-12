@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f91c809653637610952b17c0a0490e5d" label="Options" max_length="40" name="x_1488662_galinha_options" type="collection">
+        <element label="Cod Pergunta" max_length="32" name="cod_pergunta" reference="x_1488662_galinha_question" type="reference"/>
+        <element label="Value" max_length="40" name="value" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Order" max_length="40" name="order" type="integer"/>
+        <element label="Option Text" max_length="40" name="option_text" type="string"/>
+        <index name="index">
+            <element name="cod_pergunta"/>
+        </index>
+    </element>
+</database>

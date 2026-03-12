@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="4c068f3d532bb210952b17c0a0490ed1" label="Question" max_length="40" name="x_1488662_galinha_question" type="collection">
+        <element label="Mandatory" max_length="40" name="mandatory" type="boolean"/>
         <element label="Cod Form" max_length="32" name="cod_form" read_only="true" reference="x_1488662_galinha_form" type="reference"/>
         <element display="true" label="Texto Pergunta" max_length="150" name="texto_pergunta" type="string"/>
+        <element choice="3" label="Tipo de resposta" max_length="40" name="tipo_de_resposta" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes/No" sequence="2" value="yes_no"/>
+                <element inactive_on_update="false" label="choice" sequence="0" value="choice"/>
+                <element inactive_on_update="false" label="Text" sequence="1" value="text"/>
+            </choice>
+        </element>
+        <element label="Help Text" max_length="150" name="help_text" type="string"/>
+        <element label="Order" max_length="40" name="order" type="integer"/>
         <index name="index">
             <element name="cod_form"/>
         </index>

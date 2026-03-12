@@ -443,11 +443,11 @@
                                                                                                                             },
                                                                                                                             "filterQuery": {
                                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                                "value": ""
+                                                                                                                                "value": "assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^active=true^likert!="
                                                                                                                             },
                                                                                                                             "id": {
                                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                                "value": "dGFibGV4XzE0ODg2NjJfZ2FsaW5oYV9idWxsZXRfbGluaGExNzczMjU3Mjc1ODMw"
+                                                                                                                                "value": "dGFibGV4XzE0ODg2NjJfZ2FsaW5oYV9hbnN3ZXIxNzczMzI4NjQ2NjY1"
                                                                                                                             },
                                                                                                                             "isDatabaseView": {
                                                                                                                                 "type": "JSON_LITERAL",
@@ -458,7 +458,7 @@
                                                                                                                                 "value": {
                                                                                                                                     "code": null,
                                                                                                                                     "comment": "",
-                                                                                                                                    "message": "Bullet Linha"
+                                                                                                                                    "message": "Answer"
                                                                                                                                 }
                                                                                                                             },
                                                                                                                             "preferredVisualizations": {
@@ -476,7 +476,7 @@
                                                                                                                             },
                                                                                                                             "tableOrViewName": {
                                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                                "value": "x_1488662_galinha_bullet_linha"
+                                                                                                                                "value": "x_1488662_galinha_answer"
                                                                                                                             }
                                                                                                                         },
                                                                                                                         "type": "MAP_CONTAINER"
@@ -581,7 +581,7 @@
                                                                                                                 "value": {
                                                                                                                     "code": null,
                                                                                                                     "comment": "",
-                                                                                                                    "message": "Questões pendentes"
+                                                                                                                    "message": "Minhas respostas"
                                                                                                                 }
                                                                                                             },
                                                                                                             "headingLevel": {
@@ -622,11 +622,11 @@
                                                                                                                             },
                                                                                                                             "dataSource": {
                                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                                "value": "dGFibGV4XzE0ODg2NjJfZ2FsaW5oYV9idWxsZXRfbGluaGExNzczMjU3Mjc1ODMw"
+                                                                                                                                "value": "dGFibGV4XzE0ODg2NjJfZ2FsaW5oYV9hbnN3ZXIxNzczMzI4NjQ2NjY1"
                                                                                                                             },
                                                                                                                             "id": {
                                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                                "value": "ZEdGaWJHVjRYekUwT0RnMk5qSmZaMkZzYVc1b1lWOWlkV3hzWlhSZmJHbHVhR0V4Tnpjek1qVTNNamMxT0RNdzE3NzMyNTcyNzc2NDU="
+                                                                                                                                "value": "ZEdGaWJHVjRYekUwT0RnMk5qSmZaMkZzYVc1b1lWOWhibk4zWlhJeE56Y3pNekk0TmpRMk5qWTExNzczMzI4NjQ4MTQ5"
                                                                                                                             },
                                                                                                                             "numberFormat": {
                                                                                                                                 "type": "JSON_LITERAL",
@@ -1067,11 +1067,11 @@
                                                                                                                             },
                                                                                                                             "filterQuery": {
                                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                                "value": ""
+                                                                                                                                "value": "assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^active=true^likert="
                                                                                                                             },
                                                                                                                             "id": {
                                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                                "value": "dGFibGV4XzE0ODg2NjJfZ2FsaW5oYV9xdWVzdGlvbjE3NzMyNTYxNDQ0OTc="
+                                                                                                                                "value": "dGFibGV4XzE0ODg2NjJfZ2FsaW5oYV9hbnN3ZXIxNzczMzQ1NDI1Nzc2"
                                                                                                                             },
                                                                                                                             "isDatabaseView": {
                                                                                                                                 "type": "JSON_LITERAL",
@@ -1082,7 +1082,7 @@
                                                                                                                                 "value": {
                                                                                                                                     "code": null,
                                                                                                                                     "comment": "",
-                                                                                                                                    "message": "Question"
+                                                                                                                                    "message": "Answer"
                                                                                                                                 }
                                                                                                                             },
                                                                                                                             "preferredVisualizations": {
@@ -1100,7 +1100,7 @@
                                                                                                                             },
                                                                                                                             "tableOrViewName": {
                                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                                "value": "x_1488662_galinha_question"
+                                                                                                                                "value": "x_1488662_galinha_answer"
                                                                                                                             }
                                                                                                                         },
                                                                                                                         "type": "MAP_CONTAINER"
@@ -1158,7 +1158,7 @@
                                                                                                             },
                                                                                                             "enableRealTimeUpdate": {
                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                "value": true
+                                                                                                                "value": false
                                                                                                             },
                                                                                                             "endTime": {
                                                                                                                 "type": "JSON_LITERAL",
@@ -1205,7 +1205,7 @@
                                                                                                                 "value": {
                                                                                                                     "code": null,
                                                                                                                     "comment": "",
-                                                                                                                    "message": "Questões pendentes"
+                                                                                                                    "message": "Perguntas pendentes"
                                                                                                                 }
                                                                                                             },
                                                                                                             "headingLevel": {
@@ -1246,11 +1246,11 @@
                                                                                                                             },
                                                                                                                             "dataSource": {
                                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                                "value": "dGFibGV4XzE0ODg2NjJfZ2FsaW5oYV9xdWVzdGlvbjE3NzMyNTYxNDQ0OTc="
+                                                                                                                                "value": "dGFibGV4XzE0ODg2NjJfZ2FsaW5oYV9hbnN3ZXIxNzczMzQ1NDI1Nzc2"
                                                                                                                             },
                                                                                                                             "id": {
                                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                                "value": "ZEdGaWJHVjRYekUwT0RnMk5qSmZaMkZzYVc1b1lWOXhkV1Z6ZEdsdmJqRTNOek15TlRZeE5EUTBPVGM9MTc3MzI1NjE0NjIxNA=="
+                                                                                                                                "value": "ZEdGaWJHVjRYekUwT0RnMk5qSmZaMkZzYVc1b1lWOWhibk4zWlhJeE56Y3pNelExTkRJMU56YzIxNzczMzQ1NDI4MjI3"
                                                                                                                             },
                                                                                                                             "numberFormat": {
                                                                                                                                 "type": "JSON_LITERAL",
@@ -1691,11 +1691,11 @@
                                                                                                                             },
                                                                                                                             "filterQuery": {
                                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                                "value": ""
+                                                                                                                                "value": "assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^active=true"
                                                                                                                             },
                                                                                                                             "id": {
                                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                                "value": "dGFibGV4XzE0ODg2NjJfZ2FsaW5oYV9xdWVzdGlvbjE3NzMyNTYxNDQ0OTc="
+                                                                                                                                "value": "dGFibGV4XzE0ODg2NjJfZ2FsaW5oYV9hbnN3ZXIxNzczMzQ1NTYyOTUz"
                                                                                                                             },
                                                                                                                             "isDatabaseView": {
                                                                                                                                 "type": "JSON_LITERAL",
@@ -1706,7 +1706,7 @@
                                                                                                                                 "value": {
                                                                                                                                     "code": null,
                                                                                                                                     "comment": "",
-                                                                                                                                    "message": "Question"
+                                                                                                                                    "message": "Answer"
                                                                                                                                 }
                                                                                                                             },
                                                                                                                             "preferredVisualizations": {
@@ -1724,7 +1724,7 @@
                                                                                                                             },
                                                                                                                             "tableOrViewName": {
                                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                                "value": "x_1488662_galinha_question"
+                                                                                                                                "value": "x_1488662_galinha_answer"
                                                                                                                             }
                                                                                                                         },
                                                                                                                         "type": "MAP_CONTAINER"
@@ -1782,7 +1782,7 @@
                                                                                                             },
                                                                                                             "enableRealTimeUpdate": {
                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                "value": true
+                                                                                                                "value": false
                                                                                                             },
                                                                                                             "endTime": {
                                                                                                                 "type": "JSON_LITERAL",
@@ -1829,7 +1829,7 @@
                                                                                                                 "value": {
                                                                                                                     "code": null,
                                                                                                                     "comment": "",
-                                                                                                                    "message": "Questões pendentes"
+                                                                                                                    "message": "Número total perguntas"
                                                                                                                 }
                                                                                                             },
                                                                                                             "headingLevel": {
@@ -1870,11 +1870,11 @@
                                                                                                                             },
                                                                                                                             "dataSource": {
                                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                                "value": "dGFibGV4XzE0ODg2NjJfZ2FsaW5oYV9xdWVzdGlvbjE3NzMyNTYxNDQ0OTc="
+                                                                                                                                "value": "dGFibGV4XzE0ODg2NjJfZ2FsaW5oYV9hbnN3ZXIxNzczMzQ1NTYyOTUz"
                                                                                                                             },
                                                                                                                             "id": {
                                                                                                                                 "type": "JSON_LITERAL",
-                                                                                                                                "value": "ZEdGaWJHVjRYekUwT0RnMk5qSmZaMkZzYVc1b1lWOXhkV1Z6ZEdsdmJqRTNOek15TlRZeE5EUTBPVGM9MTc3MzI1NjE0NjIxNA=="
+                                                                                                                                "value": "ZEdGaWJHVjRYekUwT0RnMk5qSmZaMkZzYVc1b1lWOWhibk4zWlhJeE56Y3pNelExTlRZeU9UVXoxNzczMzQ1NTY1ODQy"
                                                                                                                             },
                                                                                                                             "numberFormat": {
                                                                                                                                 "type": "JSON_LITERAL",
@@ -2767,6 +2767,44 @@
                                                 "composition": [
                                                     {
                                                         "definition": {
+                                                            "id": "4335ba6dca80378f7ba7a67cd6667bec",
+                                                            "type": "MACROPONENT"
+                                                        },
+                                                        "elementId": "stylized_text_3",
+                                                        "elementLabel": "Stylized text 3",
+                                                        "eventMappings": [],
+                                                        "isHidden": {
+                                                            "type": "JSON_LITERAL",
+                                                            "value": null
+                                                        },
+                                                        "preset": {
+                                                            "controllerElementId": "list_controller",
+                                                            "disabledEventTargetIds": [],
+                                                            "id": "a17a79d080156d069c3eb0dc44220d26"
+                                                        },
+                                                        "propertyValues": {
+                                                            "configAria": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": {}
+                                                            },
+                                                            "css": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "* { }"
+                                                            },
+                                                            "text": {
+                                                                "type": "TRANSLATION_LITERAL",
+                                                                "value": {
+                                                                    "code": null,
+                                                                    "comment": "",
+                                                                    "message": "Questionários"
+                                                                }
+                                                            }
+                                                        },
+                                                        "slot": null,
+                                                        "styles": null
+                                                    },
+                                                    {
+                                                        "definition": {
                                                             "id": "REPEATER",
                                                             "type": "REPEATER"
                                                         },
@@ -2840,7 +2878,148 @@
                                                                                 },
                                                                                 "elementId": "button_9",
                                                                                 "elementLabel": "Button 9",
-                                                                                "eventMappings": [],
+                                                                                "eventMappings": [
+                                                                                    {
+                                                                                        "eventMappingId": "pJbbGdPKrBkbbjjjziiMIPSVaabaeehh",
+                                                                                        "isConfiguration": false,
+                                                                                        "offRowStorageId": null,
+                                                                                        "sourceEventApiName": "sn_button.NOW_BUTTON#CLICKED",
+                                                                                        "sourceEventCorrelationId": null,
+                                                                                        "sourceEventDefinition": {
+                                                                                            "apiName": "sn_button.NOW_BUTTON#CLICKED",
+                                                                                            "id": null,
+                                                                                            "type": "UXEVENT"
+                                                                                        },
+                                                                                        "sourceEventSysId": null,
+                                                                                        "targets": [
+                                                                                            {
+                                                                                                "broker": null,
+                                                                                                "clientScript": null,
+                                                                                                "clientTransformScript": "",
+                                                                                                "conditional": null,
+                                                                                                "declarativeAction": null,
+                                                                                                "event": {
+                                                                                                    "apiName": "x_1488662_galinha.NAV_ITEM_SELECTED_RELAY_0384d77d53abb210952b17c0a0490e20",
+                                                                                                    "payload": {
+                                                                                                        "container": {
+                                                                                                            "external": {
+                                                                                                                "type": "JSON_LITERAL",
+                                                                                                                "value": null
+                                                                                                            },
+                                                                                                            "fields": {
+                                                                                                                "container": {
+                                                                                                                    "sysId": {
+                                                                                                                        "type": "JSON_LITERAL",
+                                                                                                                        "value": "-1"
+                                                                                                                    },
+                                                                                                                    "table": {
+                                                                                                                        "type": "JSON_LITERAL",
+                                                                                                                        "value": "x_1488662_galinha_response"
+                                                                                                                    }
+                                                                                                                },
+                                                                                                                "type": "MAP_CONTAINER"
+                                                                                                            },
+                                                                                                            "multiInstField": {
+                                                                                                                "type": "JSON_LITERAL",
+                                                                                                                "value": null
+                                                                                                            },
+                                                                                                            "navigationOptions": {
+                                                                                                                "type": "JSON_LITERAL",
+                                                                                                                "value": null
+                                                                                                            },
+                                                                                                            "params": {
+                                                                                                                "type": "JSON_LITERAL",
+                                                                                                                "value": null
+                                                                                                            },
+                                                                                                            "passiveNavigation": {
+                                                                                                                "type": "JSON_LITERAL",
+                                                                                                                "value": null
+                                                                                                            },
+                                                                                                            "redirect": {
+                                                                                                                "type": "JSON_LITERAL",
+                                                                                                                "value": null
+                                                                                                            },
+                                                                                                            "route": {
+                                                                                                                "type": "JSON_LITERAL",
+                                                                                                                "value": "record-default"
+                                                                                                            },
+                                                                                                            "targetRoute": {
+                                                                                                                "type": "JSON_LITERAL",
+                                                                                                                "value": null
+                                                                                                            },
+                                                                                                            "title": {
+                                                                                                                "type": "JSON_LITERAL",
+                                                                                                                "value": null
+                                                                                                            }
+                                                                                                        },
+                                                                                                        "type": "MAP_CONTAINER"
+                                                                                                    },
+                                                                                                    "sysId": "17841b7d53abb210952b17c0a0490e66"
+                                                                                                },
+                                                                                                "operation": null,
+                                                                                                "targetId": "JaawxqvlAAaasffjjboFcIiUiiaaob",
+                                                                                                "type": "EVENT"
+                                                                                            },
+                                                                                            {
+                                                                                                "broker": null,
+                                                                                                "clientScript": null,
+                                                                                                "clientTransformScript": "",
+                                                                                                "conditional": null,
+                                                                                                "declarativeAction": null,
+                                                                                                "event": null,
+                                                                                                "operation": {
+                                                                                                    "dataBrokerId": "beda4252770300108d070d74c810618f",
+                                                                                                    "operationName": "EXECUTE",
+                                                                                                    "parentResourceId": "create_record_1",
+                                                                                                    "payload": {
+                                                                                                        "container": {
+                                                                                                            "table": {
+                                                                                                                "type": "JSON_LITERAL",
+                                                                                                                "value": "x_1488662_galinha_response"
+                                                                                                            },
+                                                                                                            "templateFields": {
+                                                                                                                "transform": {
+                                                                                                                    "operands": {
+                                                                                                                        "container": [
+                                                                                                                            {
+                                                                                                                                "type": "JSON_LITERAL",
+                                                                                                                                "value": "assigned_to="
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "binding": {
+                                                                                                                                    "address": [
+                                                                                                                                        "user",
+                                                                                                                                        "sys_id"
+                                                                                                                                    ],
+                                                                                                                                    "category": "session"
+                                                                                                                                },
+                                                                                                                                "type": "CONTEXT_BINDING"
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "type": "JSON_LITERAL",
+                                                                                                                                "value": "^short_description=teste^cod_form=ef3f037153abb210952b17c0a0490e42"
+                                                                                                                            }
+                                                                                                                        ],
+                                                                                                                        "type": "LIST_CONTAINER"
+                                                                                                                    },
+                                                                                                                    "operator": "CONCAT"
+                                                                                                                },
+                                                                                                                "type": "CLIENT_TRANSFORM"
+                                                                                                            },
+                                                                                                            "useSetDisplayValue": {
+                                                                                                                "type": "JSON_LITERAL",
+                                                                                                                "value": null
+                                                                                                            }
+                                                                                                        },
+                                                                                                        "type": "MAP_CONTAINER"
+                                                                                                    }
+                                                                                                },
+                                                                                                "targetId": "DkrYVPiaaDkBeehheeddJwKJCeethxleehh",
+                                                                                                "type": "DATABROKER_OP"
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ],
                                                                                 "isHidden": {
                                                                                     "type": "JSON_LITERAL",
                                                                                     "value": null
@@ -2965,7 +3144,31 @@
                                                                     "slot": null,
                                                                     "styles": {}
                                                                 }
-                                                            ]
+                                                            ],
+                                                            "layout": {
+                                                                "default": {
+                                                                    "children": null,
+                                                                    "items": [
+                                                                        {
+                                                                            "element_id": "card_base_container_1",
+                                                                            "styles": {}
+                                                                        }
+                                                                    ],
+                                                                    "root": null,
+                                                                    "rules": null,
+                                                                    "styles": {
+                                                                        "display": "grid",
+                                                                        "gap": "var(--now-scalable-space--sm)",
+                                                                        "grid-auto-columns": "1fr",
+                                                                        "grid-auto-rows": "1fr",
+                                                                        "grid-template-columns": "1fr 1fr 1fr",
+                                                                        "grid-template-rows": "1fr"
+                                                                    },
+                                                                    "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
+                                                                    "type": "grid"
+                                                                },
+                                                                "version": "3.0.0"
+                                                            }
                                                         },
                                                         "preset": null,
                                                         "propertyValues": {},
@@ -2986,6 +3189,10 @@
                                                     "default": {
                                                         "children": null,
                                                         "items": [
+                                                            {
+                                                                "element_id": "stylized_text_3",
+                                                                "styles": {}
+                                                            },
                                                             {
                                                                 "element_id": "repeater_1",
                                                                 "styles": {}
@@ -3229,12 +3436,62 @@
                                                                     },
                                                                     "elementId": "presentational_list_1",
                                                                     "elementLabel": "Presentational List",
-                                                                    "eventMappings": [],
+                                                                    "eventMappings": [
+                                                                        {
+                                                                            "eventMappingId": "685ba9ebee7f74c331950034a6214908",
+                                                                            "isConfiguration": false,
+                                                                            "offRowStorageId": null,
+                                                                            "sourceEventApiName": "now_list.NOW_LIST#ROW_CLICKED",
+                                                                            "sourceEventCorrelationId": null,
+                                                                            "sourceEventDefinition": {
+                                                                                "apiName": "now_list.NOW_LIST#ROW_CLICKED",
+                                                                                "id": null,
+                                                                                "type": "UXEVENT"
+                                                                            },
+                                                                            "sourceEventSysId": null,
+                                                                            "targets": [
+                                                                                {
+                                                                                    "broker": null,
+                                                                                    "clientScript": null,
+                                                                                    "clientTransformScript": "",
+                                                                                    "conditional": null,
+                                                                                    "declarativeAction": null,
+                                                                                    "event": {
+                                                                                        "apiName": "x_1488662_galinha.NAV_ITEM_SELECTED_RELAY_0384d77d53abb210952b17c0a0490e20",
+                                                                                        "payload": {
+                                                                                            "type": "JSON_LITERAL",
+                                                                                            "value": {
+                                                                                                "external": null,
+                                                                                                "fields": {
+                                                                                                    "sysId": "-1",
+                                                                                                    "table": "x_1488662_galinha_answer"
+                                                                                                },
+                                                                                                "multiInstField": null,
+                                                                                                "navigationOptions": null,
+                                                                                                "params": null,
+                                                                                                "passiveNavigation": null,
+                                                                                                "redirect": null,
+                                                                                                "route": "record-default",
+                                                                                                "targetRoute": null,
+                                                                                                "title": null
+                                                                                            }
+                                                                                        },
+                                                                                        "sysId": "17841b7d53abb210952b17c0a0490e66"
+                                                                                    },
+                                                                                    "operation": null,
+                                                                                    "targetId": "TpWHmvKSAaayLjjosGopgCVIVP",
+                                                                                    "type": "EVENT"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ],
                                                                     "isHero": true,
                                                                     "isHidden": null,
                                                                     "preset": {
                                                                         "controllerElementId": "list_controller",
-                                                                        "disabledEventTargetIds": [],
+                                                                        "disabledEventTargetIds": [
+                                                                            "51c172e4f95b3b1ee628a12bc563bfea"
+                                                                        ],
                                                                         "id": "33f6672f7d096e5a32e4e96b497748e4"
                                                                     },
                                                                     "propertyValues": {
@@ -6043,7 +6300,7 @@
             },
             "columns": {
                 "type": "JSON_LITERAL",
-                "value": "cod_pergunta,likert"
+                "value": "number,cod_pergunta,likert"
             },
             "currentPage": {
                 "type": "JSON_LITERAL",
@@ -6103,7 +6360,7 @@
             },
             "enableReferenceLinks": {
                 "type": "JSON_LITERAL",
-                "value": true
+                "value": false
             },
             "enforceViewRulesForQuickForm": {
                 "type": "JSON_LITERAL",
@@ -6185,6 +6442,30 @@
             }
         },
         "readEvaluationMode": "EAGER"
+    },
+    {
+        "definition": {
+            "id": "beda4252770300108d070d74c810618f",
+            "type": "GRAPHQL"
+        },
+        "elementId": "create_record_1",
+        "elementLabel": "Create Record 1",
+        "eventMappings": [],
+        "inputValues": {
+            "table": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "templateFields": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "useSetDisplayValue": {
+                "type": "JSON_LITERAL",
+                "value": null
+            }
+        },
+        "readEvaluationMode": "EXPLICIT"
     }
 ]</data>
         <description/>
@@ -6549,15 +6830,15 @@
   "code" : "",
   "comment" : ""
 }, {
+  "message" : "Answer",
+  "code" : "",
+  "comment" : ""
+}, {
   "message" : "Approve",
   "code" : "",
   "comment" : ""
 }, {
   "message" : "Approve request",
-  "code" : "",
-  "comment" : ""
-}, {
-  "message" : "Bullet Linha",
   "code" : "",
   "comment" : ""
 }, {
@@ -6573,15 +6854,23 @@
   "code" : "",
   "comment" : ""
 }, {
+  "message" : "Minhas respostas",
+  "code" : "",
+  "comment" : ""
+}, {
   "message" : "No data available.",
   "code" : "",
   "comment" : ""
 }, {
-  "message" : "Question",
+  "message" : "Número total perguntas",
   "code" : "",
   "comment" : ""
 }, {
-  "message" : "Questões pendentes",
+  "message" : "Perguntas pendentes",
+  "code" : "",
+  "comment" : ""
+}, {
+  "message" : "Questionários",
   "code" : "",
   "comment" : ""
 }, {
@@ -6713,14 +7002,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-11 18:38:54</sys_created_on>
         <sys_id>0384d77d53abb210952b17c0a0490e20</sys_id>
-        <sys_mod_count>22</sys_mod_count>
+        <sys_mod_count>37</sys_mod_count>
         <sys_name>Landing Page Default copy</sys_name>
         <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
         <sys_policy/>
         <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
         <sys_update_name>sys_ux_macroponent_0384d77d53abb210952b17c0a0490e20</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-12 01:34:05</sys_updated_on>
+        <sys_updated_on>2026-03-12 20:00:20</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=0384d77d53abb210952b17c0a0490e20"/>
 </record_update>

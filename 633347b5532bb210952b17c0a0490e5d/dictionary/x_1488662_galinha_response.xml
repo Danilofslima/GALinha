@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="40605b0253ab3610952b17c0a0490e5a" extends="task" label="Response" max_length="40" name="x_1488662_galinha_response" type="collection">
+        <element label="Cod Form" max_length="32" name="cod_form" reference="x_1488662_galinha_form" type="reference"/>
+    </element>
+</database>

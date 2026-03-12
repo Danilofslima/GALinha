@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="33184f71536bb210952b17c0a0490eaa" extends="task" label="Answer" max_length="40" name="x_1488662_galinha_answer" type="collection">
+        <element label="Cod Response" max_length="32" name="cod_response" reference="x_1488662_galinha_response" type="reference"/>
         <element label="Cod Pergunta" max_length="32" name="cod_pergunta" reference="x_1488662_galinha_question" type="reference"/>
         <element choice="3" label="Resposta" max_length="40" name="likert" type="choice">
             <choice>
