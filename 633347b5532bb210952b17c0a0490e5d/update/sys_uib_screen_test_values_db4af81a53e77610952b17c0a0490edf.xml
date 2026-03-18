@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent/>
+        <macroponent_config>{
+    "5865e308432021105571609dc7b8f23b": {
+        "allRecordsSelected": false,
+        "columnFilteringPopoverDisplay": "",
+        "columnLimit": 0,
+        "columnPreferenceKey": "",
+        "columns": "order,cod_pergunta,likert",
+        "currentPage": 0,
+        "displayedLayout": "list",
+        "enableCardClickOpen": false,
+        "enableCellFiltering": false,
+        "enableColumnFiltering": false,
+        "enableColumnGrouping": false,
+        "enableColumnSorting": false,
+        "enableDeclarativeActions": false,
+        "enableDotWalk": true,
+        "enableInfiniteScroll": false,
+        "enableLiveList": false,
+        "enableOnlySingleSelection": false,
+        "enableQuickEdit": false,
+        "enableQuickFormNavigation": false,
+        "enableReferenceLinks": false,
+        "enforceViewRulesForQuickForm": false,
+        "fetchHighlightedValues": true,
+        "filter": "",
+        "fixedFilter": "",
+        "groupBy": "",
+        "layouts": "list",
+        "listControllerId": "NbYkvPPMA0519WsOnXm6zSwc",
+        "listId": null,
+        "listType": "simple",
+        "liveUpdates": "off",
+        "nestBy": "",
+        "onlyEnableSelectionWhenRequiredByActions": true,
+        "pageSysId": "0384d77d53abb210952b17c0a0490e20",
+        "showListOpenedByLinkSection": null,
+        "table": "x_1488662_galinha_answer",
+        "view": ""
+    },
+    "table": "x_1488662_galinha_form",
+    "sysId": "aec2f70653af3610952b17c0a0490e0a"
+}</macroponent_config>
+        <screen display_value="Default">134af81a53e77610952b17c0a0490ed8</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-12 20:41:57</sys_created_on>
+        <sys_id>db4af81a53e77610952b17c0a0490edf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_db4af81a53e77610952b17c0a0490edf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-18 22:35:54</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
