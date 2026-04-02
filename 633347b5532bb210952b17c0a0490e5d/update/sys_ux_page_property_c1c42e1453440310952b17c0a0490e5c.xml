@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Creator Studio Workspace">8a8e2d0e3d5b4210f8770d1df14fe480</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-31 19:50:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c1c42e1453440310952b17c0a0490e5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
+        <sys_update_name>sys_ux_page_property_c1c42e1453440310952b17c0a0490e5c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-31 19:50:39</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1488662_galinha.8a8e2d0e3d5b4210f8770d1df14fe480.root.global.chrome_header</unique_name>
+        <value>{
+    "privatePage": {
+        "userPrefsEnabled": false,
+        "searchEnabled": false,
+        "currentScreenLinkConfiguration": {},
+        "globalTools": {
+            "collapsingMenuId": 0,
+            "primaryItems": [],
+            "secondaryItems": []
+        }
+    },
+    "publicPage": {
+        "menuEnabled": false,
+        "searchEnabled": false,
+        "logoRoute": {},
+        "actionButtons": []
+    }
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=c1c42e1453440310952b17c0a0490e5c"/>
+</record_update>

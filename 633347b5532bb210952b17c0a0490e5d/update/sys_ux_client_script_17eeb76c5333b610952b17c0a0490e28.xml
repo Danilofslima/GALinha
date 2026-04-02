@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Default v3">43ee776c5333b610952b17c0a0490eda</macroponent>
+        <name>breadcrumbs_1/now_default/items</name>
+        <preset/>
+        <required_translations>[
+    {
+        "message": "Home"
+    }
+]</required_translations>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({
+    api,
+    helpers
+}) {
+    return [{
+
+            "label": helpers.translateSync("Home"),
+
+            "icon": "home-outline",
+
+            "hideLabel": false
+
+        },
+
+        {
+
+            "label": "Questionnaire"
+
+        }
+
+    ];
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-20 10:47:21</sys_created_on>
+        <sys_id>17eeb76c5333b610952b17c0a0490e28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>breadcrumbs_1/now_default/items</sys_name>
+        <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
+        <sys_update_name>sys_ux_client_script_17eeb76c5333b610952b17c0a0490e28</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-20 10:47:21</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>

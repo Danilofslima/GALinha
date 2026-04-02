@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data">
+    <sys_ux_composite_data action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_filter_label/>
+        <name>Custom Portal Landing - My Requests Dataset</name>
+        <query_parameters/>
+        <required_roles/>
+        <sort_order>descend</sort_order>
+        <sys_class_name>sys_ux_composite_data</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-02 00:56:59</sys_created_on>
+        <sys_id>fd74b0f0adc84310299f0438a72dd594</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Portal Landing - My Requests Dataset</sys_name>
+        <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
+        <sys_update_name>sys_ux_composite_data_fd74b0f0adc84310299f0438a72dd594</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-02 00:56:59</sys_updated_on>
+    </sys_ux_composite_data>
+</record_update>

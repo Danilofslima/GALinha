@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Article page">fd74b0f0fcc84310b0cbd0cd7d2828a5</macroponent>
+        <name>Show Submit Comment Alert</name>
+        <preset/>
+        <required_translations>[
+    {
+        "message": "Comment posted."
+    }
+]</required_translations>
+        <script><![CDATA[async function handler({
+    api,
+    helpers
+}) {
+    api.emit("NOW_UXF_PAGE#ADD_NOTIFICATIONS", {
+        items: [{
+            id: "submitCommentAlert",
+            status: "info",
+            icon: "info-circle-outline",
+            content: await helpers.translate("Comment posted."),
+            action: {
+                type: "dismiss"
+            }
+        }],
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-02 00:57:03</sys_created_on>
+        <sys_id>f574b0f0a6c84310d4b75fae9d7aa99f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show Submit Comment Alert</sys_name>
+        <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
+        <sys_update_name>sys_ux_client_script_f574b0f0a6c84310d4b75fae9d7aa99f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-02 00:57:03</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

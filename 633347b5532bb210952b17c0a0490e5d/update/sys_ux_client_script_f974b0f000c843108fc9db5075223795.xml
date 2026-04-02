@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Search Page">f174b0f053c84310710dd83695bc54a5</macroponent>
+        <name>handle_tab_filter_click</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({api, event, imports, helpers}) {
+		const props = api.context.props;
+    helpers.navigate.to('search', {
+			searchTerm: props.searchTerm,
+			searchContextConfigId: props.searchContextConfigId
+    },
+		{
+			searchFilters: event.payload.selectedFilter,
+			facetFilters: props.facetFilters,
+			disableSpellCheck: props.disableSpellCheck
+		},
+		false,
+    false);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-02 00:57:00</sys_created_on>
+        <sys_id>f974b0f000c843108fc9db5075223795</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>handle_tab_filter_click</sys_name>
+        <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
+        <sys_update_name>sys_ux_client_script_f974b0f000c843108fc9db5075223795</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-02 00:57:00</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">7d74b0f028c84310b9b13a0ee43ec4bc</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">f974b0f067c84310412fb73be7a11689</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-02 00:57:02</sys_created_on>
+        <sys_id>fd74b0f0c3c84310e469d7f9887ed17d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_fd74b0f0c3c84310e469d7f9887ed17d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-02 00:57:02</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>
