@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="06540f39532bb210952b17c0a0490e9a" label="Linha" max_length="40" name="x_1488662_galinha_linha" type="collection">
         <element display="true" label="Description" max_length="40" name="description" type="string"/>
+        <element label="Habilitar" max_length="40" name="habilitar" type="boolean"/>
         <element label="AVG" max_length="38" name="avg" type="decimal"/>
         <element label="Phase" max_length="32" name="phase" reference="x_1488662_galinha_phases" type="reference"/>
         <index name="index">

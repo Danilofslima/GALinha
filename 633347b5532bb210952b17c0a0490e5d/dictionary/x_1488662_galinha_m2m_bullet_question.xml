@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="5ed64fbd532bb210952b17c0a0490e35" label="M2M Bullet Question" max_length="40" name="x_1488662_galinha_m2m_bullet_question" type="collection">
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Iniciado" sequence="0" value="iniciado"/>
+                <element inactive_on_update="false" label="Ok" sequence="1" value="ok"/>
+            </choice>
+        </element>
         <element label="Cod Bullet Linha" max_length="32" name="cod_bullet_linha" reference="x_1488662_galinha_bullet_linha" type="reference"/>
+        <element label="CutOff linha" max_length="40" name="cutoff_linha" type="float"/>
         <element label="Cod Pergunta" max_length="32" name="cod_pergunta" reference="x_1488662_galinha_question" type="reference"/>
         <index name="index">
             <element name="cod_bullet_linha"/>

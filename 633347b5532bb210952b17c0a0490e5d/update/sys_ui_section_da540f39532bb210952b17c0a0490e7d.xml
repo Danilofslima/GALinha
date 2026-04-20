@@ -4,13 +4,13 @@
             <element>description</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-11 17:48:25</sys_created_on>
-            <sys_id>eff84335536bb210952b17c0a0490e29</sys_id>
+            <sys_created_on>2026-04-02 19:24:17</sys_created_on>
+            <sys_id>16e1bc855388c310952b17c0a0490ed5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1488662_galinha_linha" sys_domain="global" view="Default view">da540f39532bb210952b17c0a0490e7d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-11 17:48:25</sys_updated_on>
+            <sys_updated_on>2026-04-02 19:24:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,27 +18,69 @@
             <element>phase</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-11 17:48:25</sys_created_on>
-            <sys_id>6ff84335536bb210952b17c0a0490e2a</sys_id>
+            <sys_created_on>2026-04-02 19:24:17</sys_created_on>
+            <sys_id>dee1bc855388c310952b17c0a0490ed5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1488662_galinha_linha" sys_domain="global" view="Default view">da540f39532bb210952b17c0a0490e7d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-11 17:48:25</sys_updated_on>
+            <sys_updated_on>2026-04-02 19:24:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>avg</element>
+            <element>.begin_split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-11 17:48:25</sys_created_on>
-            <sys_id>ebf84335536bb210952b17c0a0490e2b</sys_id>
+            <sys_created_on>2026-04-02 19:24:17</sys_created_on>
+            <sys_id>9ae1bc855388c310952b17c0a0490ed6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1488662_galinha_linha" sys_domain="global" view="Default view">da540f39532bb210952b17c0a0490e7d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-11 17:48:25</sys_updated_on>
+            <sys_updated_on>2026-04-02 19:24:17</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>avg</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-02 19:24:17</sys_created_on>
+            <sys_id>56e1bc855388c310952b17c0a0490ed7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1488662_galinha_linha" sys_domain="global" view="Default view">da540f39532bb210952b17c0a0490e7d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-02 19:24:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-02 19:24:17</sys_created_on>
+            <sys_id>12e1bc855388c310952b17c0a0490ed8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1488662_galinha_linha" sys_domain="global" view="Default view">da540f39532bb210952b17c0a0490e7d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-02 19:24:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>habilitar</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-02 19:24:17</sys_created_on>
+            <sys_id>dae1bc855388c310952b17c0a0490ed8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1488662_galinha_linha" sys_domain="global" view="Default view">da540f39532bb210952b17c0a0490e7d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-02 19:24:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c3c5244d5308c310952b17c0a0490edc" label="Requirement" max_length="40" name="x_1488662_galinha_requirement" type="collection">
+        <element label="Phase" max_length="32" name="phase" reference="x_1488662_galinha_phases" type="reference"/>
+        <element label="Requirement" max_length="150" name="requirement" type="string"/>
+        <element label="Cutoff" max_length="40" name="cutoff" type="float"/>
+        <element label="unit" max_length="40" name="unit" type="string"/>
+        <index name="index">
+            <element name="phase"/>
+        </index>
+    </element>
+</database>

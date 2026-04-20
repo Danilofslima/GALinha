@@ -4,9 +4,9 @@
         <element label="Cod Pergunta" max_length="32" name="cod_pergunta" reference="x_1488662_galinha_question" type="reference"/>
         <element choice="3" label="Resposta" max_length="40" name="likert" type="choice">
             <choice>
-                <element inactive_on_update="false" label="2- Médio (M)" sequence="1" value="medio"/>
-                <element inactive_on_update="false" label="1 - Baixo (B)" sequence="0" value="baixo"/>
-                <element inactive_on_update="false" label="3 - Alto (A)" sequence="2" value="alto"/>
+                <element inactive_on_update="false" label="2- Médio (M)" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="1 - Baixo (B)" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="3 - Alto (A)" sequence="2" value="3"/>
             </choice>
         </element>
         <element label="Resposta stg" max_length="40" name="resposta_stg" type="string"/>

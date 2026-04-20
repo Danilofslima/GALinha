@@ -643,7 +643,7 @@
                                                                     "elementLabel": "Button 3",
                                                                     "eventMappings": [
                                                                         {
-                                                                            "eventMappingId": "ddiidTNeehhQjjAaafMjjfwLeCyPAjjGc",
+                                                                            "eventMappingId": "idpAIPguAaaKddjjokPccUalFZdu",
                                                                             "isConfiguration": false,
                                                                             "offRowStorageId": null,
                                                                             "sourceEventApiName": "sn_button.NOW_BUTTON#CLICKED",
@@ -668,7 +668,7 @@
                                                                                             "value": {
                                                                                                 "bare": false,
                                                                                                 "displayOptions": null,
-                                                                                                "headerLabel": null,
+                                                                                                "headerLabel": "OK",
                                                                                                 "modalId": "[component-id$='confirm_1']",
                                                                                                 "preserveState": false,
                                                                                                 "showModal": true,
@@ -681,7 +681,7 @@
                                                                                         "sysId": "b41d7664530c0310952b17c0a0490e67"
                                                                                     },
                                                                                     "operation": null,
-                                                                                    "targetId": "puCcaPuCBkPReeddEgJXMMEycgX",
+                                                                                    "targetId": "IREZOPUoAaalMeeddFMMLWYMCAiV",
                                                                                     "type": "EVENT"
                                                                                 }
                                                                             ]
@@ -1200,32 +1200,16 @@
                                                     "container": [
                                                         {
                                                             "container": {
-                                                                "avatarProps": {
-                                                                    "type": "JSON_LITERAL",
-                                                                    "value": {
-                                                                        "imageSrc": "http://i.pravatar.cc/24?u=33",
-                                                                        "presence": "away",
-                                                                        "userName": "User 1"
-                                                                    }
-                                                                },
                                                                 "id": {
                                                                     "type": "JSON_LITERAL",
-                                                                    "value": "usr1"
+                                                                    "value": "1"
                                                                 },
                                                                 "label": {
                                                                     "type": "TRANSLATION_LITERAL",
                                                                     "value": {
                                                                         "code": null,
                                                                         "comment": "",
-                                                                        "message": "User 1"
-                                                                    }
-                                                                },
-                                                                "sublabel": {
-                                                                    "type": "TRANSLATION_LITERAL",
-                                                                    "value": {
-                                                                        "code": null,
-                                                                        "comment": "",
-                                                                        "message": "user1@servicenow.com"
+                                                                        "message": "1 - Baixo (B)"
                                                                     }
                                                                 }
                                                             },
@@ -1233,36 +1217,16 @@
                                                         },
                                                         {
                                                             "container": {
-                                                                "avatarProps": {
-                                                                    "type": "JSON_LITERAL",
-                                                                    "value": {
-                                                                        "imageSrc": "http://i.pravatar.cc/24?u=34",
-                                                                        "presence": "busy",
-                                                                        "userName": "User 2"
-                                                                    }
-                                                                },
-                                                                "disabled": {
-                                                                    "type": "JSON_LITERAL",
-                                                                    "value": true
-                                                                },
                                                                 "id": {
                                                                     "type": "JSON_LITERAL",
-                                                                    "value": "usr2"
+                                                                    "value": "2"
                                                                 },
                                                                 "label": {
                                                                     "type": "TRANSLATION_LITERAL",
                                                                     "value": {
                                                                         "code": null,
                                                                         "comment": "",
-                                                                        "message": "User 2"
-                                                                    }
-                                                                },
-                                                                "sublabel": {
-                                                                    "type": "TRANSLATION_LITERAL",
-                                                                    "value": {
-                                                                        "code": null,
-                                                                        "comment": "",
-                                                                        "message": "user2@servicenow.com"
+                                                                        "message": "2- Médio (M)"
                                                                     }
                                                                 }
                                                             },
@@ -1270,32 +1234,16 @@
                                                         },
                                                         {
                                                             "container": {
-                                                                "avatarProps": {
-                                                                    "type": "JSON_LITERAL",
-                                                                    "value": {
-                                                                        "imageSrc": "http://i.pravatar.cc/24?u=35",
-                                                                        "presence": "offline",
-                                                                        "userName": "User 3"
-                                                                    }
-                                                                },
                                                                 "id": {
                                                                     "type": "JSON_LITERAL",
-                                                                    "value": "usr3"
+                                                                    "value": "3"
                                                                 },
                                                                 "label": {
                                                                     "type": "TRANSLATION_LITERAL",
                                                                     "value": {
                                                                         "code": null,
                                                                         "comment": "",
-                                                                        "message": "User 3"
-                                                                    }
-                                                                },
-                                                                "sublabel": {
-                                                                    "type": "TRANSLATION_LITERAL",
-                                                                    "value": {
-                                                                        "code": null,
-                                                                        "comment": "",
-                                                                        "message": "user3@servicenow.com"
+                                                                        "message": "3 - Alto (A)"
                                                                     }
                                                                 }
                                                             },
@@ -1636,32 +1584,16 @@
                                                     "container": [
                                                         {
                                                             "container": {
-                                                                "avatarProps": {
-                                                                    "type": "JSON_LITERAL",
-                                                                    "value": {
-                                                                        "imageSrc": "http://i.pravatar.cc/24?u=33",
-                                                                        "presence": "away",
-                                                                        "userName": "User 1"
-                                                                    }
-                                                                },
                                                                 "id": {
                                                                     "type": "JSON_LITERAL",
-                                                                    "value": "usr1"
+                                                                    "value": "1"
                                                                 },
                                                                 "label": {
                                                                     "type": "TRANSLATION_LITERAL",
                                                                     "value": {
                                                                         "code": null,
                                                                         "comment": "",
-                                                                        "message": "User 1"
-                                                                    }
-                                                                },
-                                                                "sublabel": {
-                                                                    "type": "TRANSLATION_LITERAL",
-                                                                    "value": {
-                                                                        "code": null,
-                                                                        "comment": "",
-                                                                        "message": "user1@servicenow.com"
+                                                                        "message": "Baixo"
                                                                     }
                                                                 }
                                                             },
@@ -1669,36 +1601,16 @@
                                                         },
                                                         {
                                                             "container": {
-                                                                "avatarProps": {
-                                                                    "type": "JSON_LITERAL",
-                                                                    "value": {
-                                                                        "imageSrc": "http://i.pravatar.cc/24?u=34",
-                                                                        "presence": "busy",
-                                                                        "userName": "User 2"
-                                                                    }
-                                                                },
-                                                                "disabled": {
-                                                                    "type": "JSON_LITERAL",
-                                                                    "value": true
-                                                                },
                                                                 "id": {
                                                                     "type": "JSON_LITERAL",
-                                                                    "value": "usr2"
+                                                                    "value": "2"
                                                                 },
                                                                 "label": {
                                                                     "type": "TRANSLATION_LITERAL",
                                                                     "value": {
                                                                         "code": null,
                                                                         "comment": "",
-                                                                        "message": "User 2"
-                                                                    }
-                                                                },
-                                                                "sublabel": {
-                                                                    "type": "TRANSLATION_LITERAL",
-                                                                    "value": {
-                                                                        "code": null,
-                                                                        "comment": "",
-                                                                        "message": "user2@servicenow.com"
+                                                                        "message": "Médio"
                                                                     }
                                                                 }
                                                             },
@@ -1706,32 +1618,16 @@
                                                         },
                                                         {
                                                             "container": {
-                                                                "avatarProps": {
-                                                                    "type": "JSON_LITERAL",
-                                                                    "value": {
-                                                                        "imageSrc": "http://i.pravatar.cc/24?u=35",
-                                                                        "presence": "offline",
-                                                                        "userName": "User 3"
-                                                                    }
-                                                                },
                                                                 "id": {
                                                                     "type": "JSON_LITERAL",
-                                                                    "value": "usr3"
+                                                                    "value": "3"
                                                                 },
                                                                 "label": {
                                                                     "type": "TRANSLATION_LITERAL",
                                                                     "value": {
                                                                         "code": null,
                                                                         "comment": "",
-                                                                        "message": "User 3"
-                                                                    }
-                                                                },
-                                                                "sublabel": {
-                                                                    "type": "TRANSLATION_LITERAL",
-                                                                    "value": {
-                                                                        "code": null,
-                                                                        "comment": "",
-                                                                        "message": "user3@servicenow.com"
+                                                                        "message": "Alto"
                                                                     }
                                                                 }
                                                             },
@@ -2238,7 +2134,115 @@
         },
         "elementId": "confirm_1",
         "elementLabel": "Confirm 1",
-        "eventMappings": [],
+        "eventMappings": [
+            {
+                "eventMappingId": "aaTleeeehheehhPiCaaLtjjiQKmVizJMjjm",
+                "isConfiguration": false,
+                "offRowStorageId": null,
+                "sourceEventApiName": "sn_canvas_chrome.NOW_CONFIRM_MODAL#NEGATIVE_BUTTON_CLICKED",
+                "sourceEventCorrelationId": null,
+                "sourceEventDefinition": {
+                    "apiName": "sn_canvas_chrome.NOW_CONFIRM_MODAL#NEGATIVE_BUTTON_CLICKED",
+                    "id": null,
+                    "type": "UXEVENT"
+                },
+                "sourceEventSysId": null,
+                "targets": [
+                    {
+                        "broker": null,
+                        "clientScript": null,
+                        "clientTransformScript": "",
+                        "conditional": null,
+                        "declarativeAction": null,
+                        "event": null,
+                        "operation": {
+                            "dataBrokerId": "beda4252770300108d070d74c810618f",
+                            "operationName": "EXECUTE",
+                            "parentResourceId": "create_record_1",
+                            "payload": {
+                                "container": {
+                                    "table": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "x_1488662_galinha_answer"
+                                    },
+                                    "templateFields": {
+                                        "transform": {
+                                            "operands": {
+                                                "container": [
+                                                    {
+                                                        "type": "JSON_LITERAL",
+                                                        "value": "cod_pergunta=24c0788653a7f210952b17c0a0490e6d^likert="
+                                                    },
+                                                    {
+                                                        "binding": {
+                                                            "address": [
+                                                                "answer1"
+                                                            ]
+                                                        },
+                                                        "type": "STATE_BINDING"
+                                                    },
+                                                    {
+                                                        "type": "JSON_LITERAL",
+                                                        "value": "^resposta_stg="
+                                                    },
+                                                    {
+                                                        "binding": {
+                                                            "address": [
+                                                                "answer2"
+                                                            ]
+                                                        },
+                                                        "type": "STATE_BINDING"
+                                                    }
+                                                ],
+                                                "type": "LIST_CONTAINER"
+                                            },
+                                            "operator": "CONCAT"
+                                        },
+                                        "type": "CLIENT_TRANSFORM"
+                                    },
+                                    "useSetDisplayValue": {
+                                        "type": "JSON_LITERAL",
+                                        "value": null
+                                    }
+                                },
+                                "type": "MAP_CONTAINER"
+                            }
+                        },
+                        "targetId": "QWctjjfeehhcAkPjjjjxeeDGwVGeeAEy",
+                        "type": "DATABROKER_OP"
+                    },
+                    {
+                        "broker": null,
+                        "clientScript": null,
+                        "clientTransformScript": "",
+                        "conditional": null,
+                        "declarativeAction": null,
+                        "event": {
+                            "apiName": "x_1488662_galinha.MODAL_SELECTED_RELAY_f95ff8f8533bb610952b17c0a0490ef5",
+                            "payload": {
+                                "type": "JSON_LITERAL",
+                                "value": {
+                                    "bare": false,
+                                    "displayOptions": null,
+                                    "headerLabel": null,
+                                    "modalId": "[component-id$='confirm_1']",
+                                    "preserveState": false,
+                                    "showModal": false,
+                                    "viewportElementId": null,
+                                    "viewportFields": null,
+                                    "viewportParams": null,
+                                    "viewportRoute": null
+                                }
+                            },
+                            "sysId": "b41d7664530c0310952b17c0a0490e67"
+                        },
+                        "operation": null,
+                        "targetId": "ABccaatwBJDkDAeeddEwLcxbtwYUg",
+                        "type": "EVENT"
+                    }
+                ]
+            }
+        ],
         "isHidden": {
             "type": "JSON_LITERAL",
             "value": null
@@ -2310,7 +2314,7 @@
                 "value": {
                     "code": null,
                     "comment": "",
-                    "message": "Cancel"
+                    "message": "Confirm"
                 }
             },
             "size": {
@@ -2323,7 +2327,170 @@
     }
 ]</composition>
         <da_relay_models/>
-        <data>[]</data>
+        <data>[
+    {
+        "definition": {
+            "id": "beda4252770300108d070d74c810618f",
+            "type": "GRAPHQL"
+        },
+        "elementId": "create_record_1",
+        "elementLabel": "Create Record 1",
+        "eventMappings": [
+            {
+                "eventMappingId": "EWAjjEPJGDkggBjjggwKaOoqNbbLT",
+                "isConfiguration": false,
+                "offRowStorageId": null,
+                "sourceEventApiName": "sn_uxf.DATA_OP_SUCCEEDED",
+                "sourceEventCorrelationId": null,
+                "sourceEventDefinition": {
+                    "apiName": "sn_uxf.DATA_OP_SUCCEEDED",
+                    "id": null,
+                    "type": "UXEVENT"
+                },
+                "sourceEventSysId": null,
+                "targets": [
+                    {
+                        "broker": null,
+                        "clientScript": null,
+                        "clientTransformScript": "",
+                        "conditional": null,
+                        "declarativeAction": null,
+                        "event": {
+                            "apiName": "sn_uxf_page.NOW_UXF_PAGE#ADD_NOTIFICATIONS",
+                            "payload": {
+                                "container": {
+                                    "items": {
+                                        "container": [
+                                            {
+                                                "container": {
+                                                    "action": {
+                                                        "container": {
+                                                            "type": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "dismiss"
+                                                            }
+                                                        },
+                                                        "type": "MAP_CONTAINER"
+                                                    },
+                                                    "content": {
+                                                        "type": "TRANSLATION_LITERAL",
+                                                        "value": {
+                                                            "code": null,
+                                                            "comment": "",
+                                                            "message": "Registro Criado.."
+                                                        }
+                                                    },
+                                                    "status": {
+                                                        "type": "JSON_LITERAL",
+                                                        "value": "positive"
+                                                    }
+                                                },
+                                                "type": "MAP_CONTAINER"
+                                            }
+                                        ],
+                                        "type": "LIST_CONTAINER"
+                                    }
+                                },
+                                "type": "MAP_CONTAINER"
+                            },
+                            "sysId": "49fe7d575f983bb3f8eea3fa8d40694c"
+                        },
+                        "operation": null,
+                        "targetId": "BauJWeehhxtDELsjjuQLckiiiccbeeddU",
+                        "type": "EVENT"
+                    }
+                ]
+            },
+            {
+                "eventMappingId": "COgdeePEffDaaNcjjdAGpvffxddkvm",
+                "isConfiguration": false,
+                "offRowStorageId": null,
+                "sourceEventApiName": "sn_uxf.DATA_OP_INITIATED",
+                "sourceEventCorrelationId": null,
+                "sourceEventDefinition": {
+                    "apiName": "sn_uxf.DATA_OP_INITIATED",
+                    "id": null,
+                    "type": "UXEVENT"
+                },
+                "sourceEventSysId": null,
+                "targets": [
+                    {
+                        "broker": null,
+                        "clientScript": null,
+                        "clientTransformScript": "",
+                        "conditional": null,
+                        "declarativeAction": null,
+                        "event": {
+                            "apiName": "sn_uxf_page.NOW_UXF_PAGE#ADD_NOTIFICATIONS",
+                            "payload": {
+                                "container": {
+                                    "items": {
+                                        "container": [
+                                            {
+                                                "container": {
+                                                    "action": {
+                                                        "container": {
+                                                            "type": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "dismiss"
+                                                            }
+                                                        },
+                                                        "type": "MAP_CONTAINER"
+                                                    },
+                                                    "autoDismiss": {
+                                                        "type": "JSON_LITERAL",
+                                                        "value": {
+                                                            "enabled": true,
+                                                            "timeout": 5
+                                                        }
+                                                    },
+                                                    "content": {
+                                                        "type": "TRANSLATION_LITERAL",
+                                                        "value": {
+                                                            "code": null,
+                                                            "comment": "",
+                                                            "message": "Salvando. ..."
+                                                        }
+                                                    },
+                                                    "status": {
+                                                        "type": "JSON_LITERAL",
+                                                        "value": "info"
+                                                    }
+                                                },
+                                                "type": "MAP_CONTAINER"
+                                            }
+                                        ],
+                                        "type": "LIST_CONTAINER"
+                                    }
+                                },
+                                "type": "MAP_CONTAINER"
+                            },
+                            "sysId": "49fe7d575f983bb3f8eea3fa8d40694c"
+                        },
+                        "operation": null,
+                        "targetId": "EqccuUfjxBkXjeeddHEOnnTrrqOk",
+                        "type": "EVENT"
+                    }
+                ]
+            }
+        ],
+        "inputValues": {
+            "table": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "templateFields": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "useSetDisplayValue": {
+                "type": "JSON_LITERAL",
+                "value": null
+            }
+        },
+        "readEvaluationMode": "EXPLICIT"
+    }
+]</data>
         <description/>
         <disable_auto_reflow>false</disable_auto_reflow>
         <dispatched_events>b41d7664530c0310952b17c0a0490e67</dispatched_events>
@@ -2381,6 +2548,10 @@
   "code" : "",
   "comment" : ""
 }, {
+  "message" : "1 - Baixo (B)",
+  "code" : "",
+  "comment" : ""
+}, {
   "message" : "1. Palmeiras tem mundial?",
   "code" : "",
   "comment" : ""
@@ -2389,7 +2560,19 @@
   "code" : "",
   "comment" : ""
 }, {
+  "message" : "2- Médio (M)",
+  "code" : "",
+  "comment" : ""
+}, {
   "message" : "2. O céu é azul?",
+  "code" : "",
+  "comment" : ""
+}, {
+  "message" : "3 - Alto (A)",
+  "code" : "",
+  "comment" : ""
+}, {
+  "message" : "Alto",
   "code" : "",
   "comment" : ""
 }, {
@@ -2397,11 +2580,15 @@
   "code" : "",
   "comment" : ""
 }, {
-  "message" : "Cancel",
+  "message" : "Baixo",
   "code" : "",
   "comment" : ""
 }, {
   "message" : "Confimar",
+  "code" : "",
+  "comment" : ""
+}, {
+  "message" : "Confirm",
   "code" : "",
   "comment" : ""
 }, {
@@ -2413,23 +2600,23 @@
   "code" : "",
   "comment" : ""
 }, {
+  "message" : "Médio",
+  "code" : "",
+  "comment" : ""
+}, {
+  "message" : "Registro Criado..",
+  "code" : "",
+  "comment" : ""
+}, {
   "message" : "Repostas",
   "code" : "",
   "comment" : ""
 }, {
+  "message" : "Salvando. ...",
+  "code" : "",
+  "comment" : ""
+}, {
   "message" : "This needs your attention",
-  "code" : "",
-  "comment" : ""
-}, {
-  "message" : "User 1",
-  "code" : "",
-  "comment" : ""
-}, {
-  "message" : "User 2",
-  "code" : "",
-  "comment" : ""
-}, {
-  "message" : "User 3",
   "code" : "",
   "comment" : ""
 }, {
@@ -2442,18 +2629,6 @@
   "comment" : ""
 }, {
   "message" : "ok",
-  "code" : "",
-  "comment" : ""
-}, {
-  "message" : "user1@servicenow.com",
-  "code" : "",
-  "comment" : ""
-}, {
-  "message" : "user2@servicenow.com",
-  "code" : "",
-  "comment" : ""
-}, {
-  "message" : "user3@servicenow.com",
   "code" : "",
   "comment" : ""
 } ]</required_translations>
@@ -2517,14 +2692,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-20 15:28:47</sys_created_on>
         <sys_id>f95ff8f8533bb610952b17c0a0490ef5</sys_id>
-        <sys_mod_count>47</sys_mod_count>
+        <sys_mod_count>64</sys_mod_count>
         <sys_name>Default</sys_name>
         <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
         <sys_policy/>
         <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
         <sys_update_name>sys_ux_macroponent_f95ff8f8533bb610952b17c0a0490ef5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-01 16:54:03</sys_updated_on>
+        <sys_updated_on>2026-04-17 19:35:55</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=f95ff8f8533bb610952b17c0a0490ef5"/>
 </record_update>

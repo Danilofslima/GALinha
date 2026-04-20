@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_toolbar</name>
+        <page display_value="Patinho">ac6730b853c84310952b17c0a0490e44</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix>chrome_toolbar</suffix>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-06 16:32:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>dae07c1a53040310952b17c0a0490e5c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
+        <sys_update_name>sys_ux_page_property_dae07c1a53040310952b17c0a0490e5c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-06 16:53:21</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1488662_galinha.ac6730b853c84310952b17c0a0490e44.root.global.chrome_toolbar</unique_name>
+        <value>[]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=dae07c1a53040310952b17c0a0490e5c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GALinha">633347b5532bb210952b17c0a0490e5d</application>
+        <file_path/>
+        <instance_id>50499024eb44529c5a2dfceacad0cd51</instance_id>
+        <instance_name>dev287143</instance_name>
+        <name>sys_ux_page_property_dae07c1a53040310952b17c0a0490e5c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_toolbar</name><page display_value="Patinho">ac6730b853c84310952b17c0a0490e44</page><required_translations>[ ]</required_translations><route/><suffix>chrome_toolbar</suffix><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-06 16:32:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>dae07c1a53040310952b17c0a0490e5c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>chrome_toolbar</sys_name><sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package><sys_policy/><sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope><sys_update_name>sys_ux_page_property_dae07c1a53040310952b17c0a0490e5c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-06 16:53:21</sys_updated_on><type>json</type><unique_name>x_1488662_galinha.ac6730b853c84310952b17c0a0490e44.root.global.chrome_toolbar</unique_name><value>[]</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=dae07c1a53040310952b17c0a0490e5c"/></record_update>]]></payload>
+        <payload_hash>1040308695</payload_hash>
+        <record_name>chrome_toolbar</record_name>
+        <reverted_from/>
+        <source>5e13137953abb210952b17c0a0490eb0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-06 16:53:21</sys_created_on>
+        <sys_id>dab530d253440310952b17c0a0490e77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d63b68df00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-06 16:53:21</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>1ab530d232440310fd7120faea684976</update_guid>
+        <update_guid_history>1ab530d232440310fd7120faea684976:1040308695,56e07c1ab00403105e3fea598afa205f:1774119379</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-06 18:47:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>40ba92b179d940a1a0a62ff16f912589</sys_id>
+        <sys_metadata>dae07c1a53040310952b17c0a0490e5c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="GALinha" source="x_1488662_galinha">633347b5532bb210952b17c0a0490e5d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GALinha">633347b5532bb210952b17c0a0490e5d</sys_scope>
+        <sys_scope_delete display_value="">25ff8abd97f64b2899e50250c494e839</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_dae07c1a53040310952b17c0a0490e5c</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_dae07c1a53040310952b17c0a0490e5c">dab530d253440310952b17c0a0490e77</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-06 18:47:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
